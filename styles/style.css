@@ -198,3 +198,12 @@ footer {
   background: none;
   width: 100%;
 }
+/* extra */
+.button1:hover {
+  background: #003158;
+  color: #fff;
+}
+.button2:hover {
+  background: #fff;
+  color: #003158;
+}
